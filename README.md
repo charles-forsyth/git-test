@@ -4,7 +4,7 @@
 It was a dark and stormy night.
 
 ## Chapter 2
-It was a dark and stormy night.
+The sun came out and everyone smiled.
 
 ## Chapter 3
-It was a dark and stormy night.
+(Pending)
