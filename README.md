@@ -7,4 +7,4 @@ It was a dark and stormy night.
 The sun came out and everyone smiled.
 
 ## Chapter 3
-(Pending)
+And they lived happily ever after.
