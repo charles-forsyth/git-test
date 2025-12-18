@@ -1,10 +1,10 @@
 # The Collaborative Story
 
 ## Chapter 1
-(Pending)
+It was a dark and stormy night.
 
 ## Chapter 2
-(Pending)
+It was a dark and stormy night.
 
 ## Chapter 3
-(Pending)
+It was a dark and stormy night.
