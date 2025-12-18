@@ -1,10 +1,10 @@
 # The Collaborative Story
 
 ## Chapter 1
-(Pending)
+It was a dark and stormy night.
 
 ## Chapter 2
-(Pending)
+The sun came out and everyone smiled.
 
 ## Chapter 3
-The sun came out and everyone smiled.
+(Pending)
