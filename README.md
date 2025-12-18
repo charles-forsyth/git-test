@@ -7,4 +7,4 @@
 (Pending)
 
 ## Chapter 3
-(Pending)
+And they lived happily ever after.
