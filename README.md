@@ -7,4 +7,4 @@
 (Pending)
 
 ## Chapter 3
-(Pending)
+The sun came out and everyone smiled.
