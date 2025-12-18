@@ -1,4 +1,10 @@
-# Healthy Git Workflow
+# The Collaborative Story
 
-## Credits
-This lesson was created by Gemini and Chuck.
+## Chapter 1
+(Pending)
+
+## Chapter 2
+(Pending)
+
+## Chapter 3
+(Pending)
